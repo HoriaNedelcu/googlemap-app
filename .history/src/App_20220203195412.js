@@ -5,13 +5,8 @@ import GoogleMap from "./components/GoogleMap";
 function App() {
   return (
     <div className="App">
-      <h1 style={{ color: "#fff", fontSize: "46px", marginBottom: "6px" }}>
-        Google Maps App
-      </h1>
-      <p style={{ color: "#060f00", margin: "0 0 10px" }}>
-        {" "}
-        You can search your next holiday destination
-      </p>
+      <h1>Google Maps App</h1>
+      <p> You can search your next holiday destination</p>
       <div style={{}}>
         <GoogleMap />
       </div>

@@ -5,7 +5,7 @@ import GoogleMap from "./components/GoogleMap";
 function App() {
   return (
     <div className="App">
-      <h1 style={{ color: "#fff", fontSize: "46px", marginBottom: "6px" }}>
+      <h1 style={{ color: "#f7f9f8", fontSize: "46px", marginBottom: "6px" }}>
         Google Maps App
       </h1>
       <p style={{ color: "#060f00", margin: "0 0 10px" }}>
